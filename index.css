@@ -68,7 +68,57 @@ body {
   margin-bottom: 10px;
   text-align: center;
 }
+.main {
+  background-color: rgba(240, 222, 142, 0.692);
+  height: 100%;
+  min-height: 1200px;
+  width: 100%;
+}
 
+.container {
+  text-align: center;
+}
+
+.team-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+  text-align: center;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.team {
+  float: left;
+  width: 50%;
+}
+
+.team-icon img {
+  width: 100px;
+  height: 100px;
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
 .main {
   background-color: rgba(240, 222, 142, 0.692);
   height: 100%;
